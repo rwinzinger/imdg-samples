@@ -5,6 +5,7 @@ import com.hazelcast.core.HazelcastInstance;
 import com.hazelcast.core.IExecutorService;
 
 import java.io.Serializable;
+import java.util.concurrent.ExecutorService;
 
 /**
  * Created by rwinzing on 02.12.15.
